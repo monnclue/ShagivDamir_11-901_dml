@@ -1,0 +1,667 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="06154061-e03a-4062-8b11-319311846d22" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Animations/CatAnim.controller" beforeDir="false" afterPath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Animations/CatAnim.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/Materials/BG.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/Materials/BG.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/Materials/Blank.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/Materials/Blank.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/Materials/Blue.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/Materials/Blue.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/Materials/Green.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/Materials/Green.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/Materials/Material.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/Materials/Material.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/Materials/Orange.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/Materials/Orange.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/Materials/Pink.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/Materials/Pink.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/Materials/Purple.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/Materials/Purple.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/Materials/Red.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/Materials/Red.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/Materials/Yellow.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/Materials/Yellow.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/Models.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/Models/4 Side Diamond.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/Models/4 Side Diamond.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/Models/5 Side Diamond.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/Models/5 Side Diamond.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/Models/BeveledStar.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/Models/BeveledStar.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/Models/Cubie.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/Models/Cubie.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/Models/CubieBeveled.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/Models/CubieBeveled.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/Models/Cuboid.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/Models/Cuboid.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/Models/Diamondo.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/Models/Diamondo.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/Models/Diamondo5side.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/Models/Diamondo5side.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/Models/HardStar.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/Models/HardStar.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/Models/Heart.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/Models/Heart.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/Models/Hexgon.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/Models/Hexgon.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/Models/Penta.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/Models/Penta.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/Models/SoftStar.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/Models/SoftStar.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/Models/SphereGemLarge.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/Models/SphereGemLarge.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/Models/SphereGemSmall.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/Models/SphereGemSmall.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/Models/Spiral.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/Models/Spiral.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/Prefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/Prefabs/4 Side Diamond.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/Prefabs/4 Side Diamond.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/Prefabs/5 Side Diamond.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/Prefabs/5 Side Diamond.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/Prefabs/BeveledStar.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/Prefabs/BeveledStar.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/Prefabs/Cubie.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/Prefabs/Cubie.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/Prefabs/CubieBeveled.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/Prefabs/CubieBeveled.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/Prefabs/Cuboid.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/Prefabs/Cuboid.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/Prefabs/Diamondo.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/Prefabs/Diamondo.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/Prefabs/Diamondo5side.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/Prefabs/Diamondo5side.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/Prefabs/HardStar.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/Prefabs/HardStar.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/Prefabs/Heart.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/Prefabs/Heart.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/Prefabs/Hexgon.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/Prefabs/Hexgon.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/Prefabs/Penta.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/Prefabs/Penta.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/Prefabs/SoftStar.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/Prefabs/SoftStar.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/Prefabs/SphereGemLarge.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/Prefabs/SphereGemLarge.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/Prefabs/SphereGemSmall.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/Prefabs/SphereGemSmall.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/Prefabs/Spiral.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/Prefabs/Spiral.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/READ ME.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/READ ME.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/Scenes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/Scenes/DemoScene_Gems.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/Scenes/DemoScene_Gems.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/Scripts/AnimationScript.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/AurynSky/Gems Ultimate Pack/Scripts/AnimationScript.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/ILLBEALIVE!!.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../SummerPracticeCat/Assets/ILLBEALIVE!!.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Main.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Main.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Samples/Terrain Tools/0.1.0-preview/Terrain Assets/TerrainLayers/dirt.terrainlayer" beforeDir="false" afterPath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Samples/Terrain Tools/0.1.0-preview/Terrain Assets/TerrainLayers/dirt.terrainlayer" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Scripts/catMove.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Scripts/catMove.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/Materials/M_Cars.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/Materials/M_Cars.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/Materials/M_City.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/Materials/M_City.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/Meshes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/Meshes/Car_B1.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/Meshes/Car_B1.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/Meshes/Demo_Asphalt.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/Meshes/Demo_Asphalt.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/Meshes/Demo_Block.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/Meshes/Demo_Block.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/Meshes/Demo_Crossing.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/Meshes/Demo_Crossing.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/PolygonBlacksmith.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/PolygonBlacksmith/TT_Citizens_demo.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/PolygonBlacksmith/TT_Citizens_demo/animation.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/PolygonBlacksmith/TT_Citizens_demo/animation/female.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/PolygonBlacksmith/TT_Citizens_demo/animation/female/f_death_A.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/PolygonBlacksmith/TT_Citizens_demo/animation/female/f_death_A.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/PolygonBlacksmith/TT_Citizens_demo/animation/female/f_idle_A.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/PolygonBlacksmith/TT_Citizens_demo/animation/female/f_idle_A.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/PolygonBlacksmith/TT_Citizens_demo/animation/female/f_melee_combat_attack_A.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/PolygonBlacksmith/TT_Citizens_demo/animation/female/f_melee_combat_attack_A.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/PolygonBlacksmith/TT_Citizens_demo/animation/female/f_melee_combat_idle.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/PolygonBlacksmith/TT_Citizens_demo/animation/female/f_melee_combat_idle.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/PolygonBlacksmith/TT_Citizens_demo/animation/female/f_melee_combat_run.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/PolygonBlacksmith/TT_Citizens_demo/animation/female/f_melee_combat_run.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/PolygonBlacksmith/TT_Citizens_demo/animation/female/f_melee_combat_run_rm.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/PolygonBlacksmith/TT_Citizens_demo/animation/female/f_melee_combat_run_rm.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/PolygonBlacksmith/TT_Citizens_demo/animation/female/f_run.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/PolygonBlacksmith/TT_Citizens_demo/animation/female/f_run.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/PolygonBlacksmith/TT_Citizens_demo/animation/female/f_run_rm.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/PolygonBlacksmith/TT_Citizens_demo/animation/female/f_run_rm.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/PolygonBlacksmith/TT_Citizens_demo/animation/female/f_walk.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/PolygonBlacksmith/TT_Citizens_demo/animation/female/f_walk.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/PolygonBlacksmith/TT_Citizens_demo/animation/female/f_walk_rm.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/PolygonBlacksmith/TT_Citizens_demo/animation/female/f_walk_rm.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/PolygonBlacksmith/TT_Citizens_demo/animation/male.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/PolygonBlacksmith/TT_Citizens_demo/animation/male/m_death_A.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/PolygonBlacksmith/TT_Citizens_demo/animation/male/m_death_A.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/PolygonBlacksmith/TT_Citizens_demo/animation/male/m_idle_A.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/PolygonBlacksmith/TT_Citizens_demo/animation/male/m_idle_A.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/PolygonBlacksmith/TT_Citizens_demo/animation/male/m_melee_combat_attack_A.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/PolygonBlacksmith/TT_Citizens_demo/animation/male/m_melee_combat_attack_A.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/PolygonBlacksmith/TT_Citizens_demo/animation/male/m_melee_combat_idle.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/PolygonBlacksmith/TT_Citizens_demo/animation/male/m_melee_combat_idle.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/PolygonBlacksmith/TT_Citizens_demo/animation/male/m_melee_combat_run.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/PolygonBlacksmith/TT_Citizens_demo/animation/male/m_melee_combat_run.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/PolygonBlacksmith/TT_Citizens_demo/animation/male/m_melee_combat_run_rm.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/PolygonBlacksmith/TT_Citizens_demo/animation/male/m_melee_combat_run_rm.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/PolygonBlacksmith/TT_Citizens_demo/animation/male/m_pistol_idle_A.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/PolygonBlacksmith/TT_Citizens_demo/animation/male/m_pistol_idle_A.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/PolygonBlacksmith/TT_Citizens_demo/animation/male/m_pistol_run.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/PolygonBlacksmith/TT_Citizens_demo/animation/male/m_pistol_run.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/PolygonBlacksmith/TT_Citizens_demo/animation/male/m_pistol_run_rm.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/PolygonBlacksmith/TT_Citizens_demo/animation/male/m_pistol_run_rm.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/PolygonBlacksmith/TT_Citizens_demo/animation/male/m_pistol_shoot.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/PolygonBlacksmith/TT_Citizens_demo/animation/male/m_pistol_shoot.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/PolygonBlacksmith/TT_Citizens_demo/animation/male/m_run.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/PolygonBlacksmith/TT_Citizens_demo/animation/male/m_run.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/PolygonBlacksmith/TT_Citizens_demo/animation/male/m_run_rm.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/PolygonBlacksmith/TT_Citizens_demo/animation/male/m_run_rm.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/PolygonBlacksmith/TT_Citizens_demo/animation/male/m_walk.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/PolygonBlacksmith/TT_Citizens_demo/animation/male/m_walk.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/PolygonBlacksmith/TT_Citizens_demo/animation/male/m_walk_rm.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/PolygonBlacksmith/TT_Citizens_demo/animation/male/m_walk_rm.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/PolygonBlacksmith/TT_Citizens_demo/animation/samplers.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/PolygonBlacksmith/TT_Citizens_demo/animation/samplers/female_idle.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/PolygonBlacksmith/TT_Citizens_demo/animation/samplers/female_idle.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/PolygonBlacksmith/TT_Citizens_demo/animation/samplers/male_idle.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/PolygonBlacksmith/TT_Citizens_demo/animation/samplers/male_idle.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/PolygonBlacksmith/TT_Citizens_demo/models.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/PolygonBlacksmith/TT_Citizens_demo/models/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/PolygonBlacksmith/TT_Citizens_demo/models/Materials/TT_demo.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/PolygonBlacksmith/TT_Citizens_demo/models/Materials/TT_demo.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/PolygonBlacksmith/TT_Citizens_demo/models/Materials/TT_demo_texture.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/PolygonBlacksmith/TT_Citizens_demo/models/Materials/TT_demo_texture.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/PolygonBlacksmith/TT_Citizens_demo/models/TT_demo_female.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/PolygonBlacksmith/TT_Citizens_demo/models/TT_demo_female.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/PolygonBlacksmith/TT_Citizens_demo/models/TT_demo_male_A.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/PolygonBlacksmith/TT_Citizens_demo/models/TT_demo_male_A.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/PolygonBlacksmith/TT_Citizens_demo/models/TT_demo_male_B.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/PolygonBlacksmith/TT_Citizens_demo/models/TT_demo_male_B.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/PolygonBlacksmith/TT_Citizens_demo/models/TT_demo_police.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/PolygonBlacksmith/TT_Citizens_demo/models/TT_demo_police.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/PolygonBlacksmith/TT_Citizens_demo/prefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/PolygonBlacksmith/TT_Citizens_demo/prefabs/TT_demo_female.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/PolygonBlacksmith/TT_Citizens_demo/prefabs/TT_demo_female.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/PolygonBlacksmith/TT_Citizens_demo/prefabs/TT_demo_male_A.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/PolygonBlacksmith/TT_Citizens_demo/prefabs/TT_demo_male_A.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/PolygonBlacksmith/TT_Citizens_demo/prefabs/TT_demo_male_B.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/PolygonBlacksmith/TT_Citizens_demo/prefabs/TT_demo_male_B.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/PolygonBlacksmith/TT_Citizens_demo/prefabs/TT_demo_police.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/PolygonBlacksmith/TT_Citizens_demo/prefabs/TT_demo_police.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/Prefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/Prefabs/Car_B1.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/Prefabs/Car_B1.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/Prefabs/Demo_Asphalt.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/Prefabs/Demo_Asphalt.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/Prefabs/Demo_Block.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/Prefabs/Demo_Block.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/Prefabs/Demo_Crossing.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/Prefabs/Demo_Crossing.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/Scenes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/Scenes/Demo_Scene.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/Scenes/Demo_Scene.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/Textures/T_Cars_Demo.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/Textures/T_Cars_Demo.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/Textures/T_City_Demo.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/Tiny_Toony_City_Demo/Textures/T_City_Demo.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/Materials-Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/Materials-Textures/blueJayDIffuse.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/Materials-Textures/blueJayDIffuse.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/Materials-Textures/blueJayDIffuseAlpha.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/Materials-Textures/blueJayDIffuseAlpha.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/Materials-Textures/blueJayMaterial.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/Materials-Textures/blueJayMaterial.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/Materials-Textures/blueJayMaterialHQ.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/Materials-Textures/blueJayMaterialHQ.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/Materials-Textures/cardinalDiffuse.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/Materials-Textures/cardinalDiffuse.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/Materials-Textures/cardinalDiffuseAlpha.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/Materials-Textures/cardinalDiffuseAlpha.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/Materials-Textures/cardinalMaterial.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/Materials-Textures/cardinalMaterial.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/Materials-Textures/cardinalMaterialHQ.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/Materials-Textures/cardinalMaterialHQ.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/Materials-Textures/chickadeeDiffuse.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/Materials-Textures/chickadeeDiffuse.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/Materials-Textures/chickadeeDiffuseAlpha.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/Materials-Textures/chickadeeDiffuseAlpha.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/Materials-Textures/chickadeeMaterial.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/Materials-Textures/chickadeeMaterial.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/Materials-Textures/chickadeeMaterialHQ.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/Materials-Textures/chickadeeMaterialHQ.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/Materials-Textures/crowDiffuse.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/Materials-Textures/crowDiffuse.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/Materials-Textures/crowDiffuseAlpha.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/Materials-Textures/crowDiffuseAlpha.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/Materials-Textures/crowMaterial.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/Materials-Textures/crowMaterial.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/Materials-Textures/crowMaterialHQ.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/Materials-Textures/crowMaterialHQ.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/Materials-Textures/feather.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/Materials-Textures/feather.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/Materials-Textures/feather.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/Materials-Textures/feather.tif.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/Materials-Textures/featherParticle.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/Materials-Textures/featherParticle.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/Materials-Textures/featherParticle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/Materials-Textures/featherParticle.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/Materials-Textures/goldFinchMaterial.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/Materials-Textures/goldFinchMaterial.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/Materials-Textures/goldFinchMaterialHQ.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/Materials-Textures/goldFinchMaterialHQ.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/Materials-Textures/goldfinchDiffuse.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/Materials-Textures/goldfinchDiffuse.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/Materials-Textures/goldfinchDiffuseAlpha.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/Materials-Textures/goldfinchDiffuseAlpha.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/Materials-Textures/robinDiffuse.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/Materials-Textures/robinDiffuse.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/Materials-Textures/robinDiffuseAlpha.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/Materials-Textures/robinDiffuseAlpha.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/Materials-Textures/robinMaterial.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/Materials-Textures/robinMaterial.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/Materials-Textures/robinMaterialHQ.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/Materials-Textures/robinMaterialHQ.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/Materials-Textures/sparrowDiffuse.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/Materials-Textures/sparrowDiffuse.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/Materials-Textures/sparrowDiffuseAlpha.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/Materials-Textures/sparrowDiffuseAlpha.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/Materials-Textures/sparrowMaterial.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/Materials-Textures/sparrowMaterial.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/Materials-Textures/sparrowMaterialHQ.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/Materials-Textures/sparrowMaterialHQ.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/animations.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/animations/bird@die.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/animations/bird@die.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/animations/bird@flyLeft.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/animations/bird@flyLeft.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/animations/bird@flyRight.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/animations/bird@flyRight.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/animations/bird@flyStraight.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/animations/bird@flyStraight.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/animations/bird@hopBack.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/animations/bird@hopBack.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/animations/bird@hopForward.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/animations/bird@hopForward.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/animations/bird@hopLeft.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/animations/bird@hopLeft.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/animations/bird@hopRight.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/animations/bird@hopRight.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/animations/bird@landing.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/animations/bird@landing.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/animations/bird@peck.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/animations/bird@peck.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/animations/bird@preen.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/animations/bird@preen.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/animations/bird@ruffle.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/animations/bird@ruffle.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/animations/bird@sing.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/animations/bird@sing.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/animations/bird@watch01.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/animations/bird@watch01.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/animations/bird@watch02.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/animations/bird@watch02.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/animations/bird@worried.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/animations/bird@worried.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/animations/birdAnimatorController.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/animations/birdAnimatorController.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/demo.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/demo/Demo.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/demo/Demo.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/demo/demoGround.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/demo/demoGround.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/demo/livingBirdsDemoGround.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/demo/livingBirdsDemoGround.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/demo/livingBirdsDemoScript.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/demo/livingBirdsDemoScript.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/documents.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/documents/living birds manual.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/documents/living birds manual.pdf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/models.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/models/blueJay.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/models/blueJay.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/models/cardinal.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/models/cardinal.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/models/crow.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/models/crow.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/models/littleBird.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/models/littleBird.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/models/robin.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/models/robin.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/prefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/prefabs/_livingBirdsController.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/prefabs/_livingBirdsController.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/prefabs/lb_groundTarget.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/prefabs/lb_groundTarget.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/prefabs/lc_perchTarget.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/prefabs/lc_perchTarget.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/resources.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/resources/featherEmitter.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/resources/featherEmitter.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/resources/lb_blueJay.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/resources/lb_blueJay.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/resources/lb_blueJayHQ.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/resources/lb_blueJayHQ.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/resources/lb_cardinal.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/resources/lb_cardinal.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/resources/lb_cardinalHQ.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/resources/lb_cardinalHQ.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/resources/lb_chickadee.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/resources/lb_chickadee.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/resources/lb_chickadeeHQ.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/resources/lb_chickadeeHQ.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/resources/lb_crow.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/resources/lb_crow.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/resources/lb_crowHQ.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/resources/lb_crowHQ.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/resources/lb_goldFinch.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/resources/lb_goldFinch.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/resources/lb_goldFinchHQ.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/resources/lb_goldFinchHQ.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/resources/lb_robin.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/resources/lb_robin.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/resources/lb_robinHQ.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/resources/lb_robinHQ.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/resources/lb_sparrow.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/resources/lb_sparrow.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/resources/lb_sparrowHQ.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/resources/lb_sparrowHQ.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/scripts/lb_Bird.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/scripts/lb_Bird.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/scripts/lb_BirdController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/scripts/lb_BirdController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/scripts/lb_CrowProximity.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/scripts/lb_CrowProximity.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/sounds.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/sounds/blueJay.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/sounds/blueJay.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/sounds/blueJay2.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/sounds/blueJay2.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/sounds/cardinal.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/sounds/cardinal.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/sounds/cardinal2.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/sounds/cardinal2.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/sounds/chickadee.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/sounds/chickadee.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/sounds/chickadee2.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/sounds/chickadee2.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/sounds/crow1.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/sounds/crow1.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/sounds/crow2.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/sounds/crow2.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/sounds/finch.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/sounds/finch.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/sounds/finch2.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/sounds/finch2.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/sounds/flyAway1.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/sounds/flyAway1.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/sounds/flyAway2.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/sounds/flyAway2.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/sounds/robin.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/sounds/robin.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/sounds/robin2.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/sounds/robin2.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/sounds/sparrow.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/sounds/sparrow.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/sounds/sparrow2.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Assets/living birds/sounds/sparrow2.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Library/APIUpdater/project-dependencies.graph" beforeDir="false" afterPath="$PROJECT_DIR$/../SummerPracticeCat/Library/APIUpdater/project-dependencies.graph" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Library/ArtifactDB" beforeDir="false" afterPath="$PROJECT_DIR$/../SummerPracticeCat/Library/ArtifactDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Library/ArtifactDB-lock" beforeDir="false" afterPath="$PROJECT_DIR$/../SummerPracticeCat/Library/ArtifactDB-lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Library/Artifacts/00/0023afa6d8f9c9b369e8cd541abd55a0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Library/Artifacts/02/02c266d22bb661a507f7298fd725cf94" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Library/Artifacts/04/0453f1d6f50634caef803883a2562fc2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Library/Artifacts/09/09cff5bc7b0e52c984b3c8258cd5a6cf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Library/Artifacts/0d/0df99ac1d0920e28fad5f07066202980" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Library/Artifacts/18/188f9854b6f9ca4cdb3c5036bbd8a37e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Library/Artifacts/29/29396c65f11cf6d5327e640132a43c28" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Library/Artifacts/29/2985e77336408f581f76351eff43ce4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Library/Artifacts/2b/2b1757a174034058f169743cade09810" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Library/Artifacts/2b/2bf1c0cae443d65b6dd82668003ffc21" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Library/Artifacts/31/3121a628d4e86e8f103c680814f12367" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Library/Artifacts/31/31e1712d742631248bd838b678c6b156" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Library/Artifacts/37/37d81a521ebdb85ed72bfa5c2f90bee4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Library/Artifacts/3c/3ced5a514d1b6ee4c2d6646d511b9393" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Library/Artifacts/3d/3d8811ef4d854602cf2d32d9b50da966" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Library/Artifacts/40/4088f124662a2019d7340a7a23a72da2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Library/Artifacts/45/45ba7d7d7e24253fa1139f6a8d80b8a7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Library/Artifacts/4c/4c5c38e52f35dea44d695fe94a25687a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Library/Artifacts/4c/4c941f5788e32de836310f8762bceb97" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Library/Artifacts/4d/4d86adf0d10b522305041044067e8671" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Library/Artifacts/4e/4edc6c4ef70ab0c824056e8dbae7fb53" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Library/Artifacts/4f/4f5fdc46d9ec5e8d2ce1f7a6b165782f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Library/Artifacts/59/597cd458cadee15e0284e04fa80d321f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Library/Artifacts/5a/5ab71465d6507b7b015a29d9367ea30f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Library/Artifacts/65/65890c499f9d890c607f6ecd75f6456a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Library/Artifacts/66/665a0c53de03d1c72535ed80be7f4f44" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Library/Artifacts/6b/6b38856991b02aa6addfe546f2649b17" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Library/Artifacts/6e/6ecf3c8e04ffeda72e0c8ce436b431ff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Library/Artifacts/72/72085b3a6e55e4925d8a97648807f76d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Library/Artifacts/72/726395bc43be6da8ada42e8c0c2acca1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Library/Artifacts/73/73cf688f4366cbaedbb4ca3493afee9d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Library/Artifacts/79/7977a873dcf6c230083e330627485432" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Library/Artifacts/79/79a9df188c8d71f34a383b797ddfaddb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Library/Artifacts/7a/7afdc0d9d6ef15146416f6a84ec55e90" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Library/Artifacts/83/83898c8b8287ee378e7de723f5d12596" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Library/Artifacts/88/880aeda12fa1f19135f5ba5bb24c56c1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Library/Artifacts/8b/8bb6aa4a8254baf762c6fbe750974fdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Library/Artifacts/9d/9ddfd1f53b9af40bb85e00ea2b2cbab7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Library/Artifacts/9f/9fc5003700aaf38f2e8d332b5a871522" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Library/Artifacts/a2/a2d8ece635656d73034e5e925a363124" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Library/Artifacts/a9/a996c2a23dc3462e2fbb770f8f2b2027" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Library/Artifacts/b0/b01f65c2bf205b63eaf0f897cd4e3970" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Library/Artifacts/b8/b87310287e648c4e2c7e41a3292e0978" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Library/Artifacts/bb/bb575aa69013e362b31d73766b31afde" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Library/Artifacts/bf/bf427da8bfee868a5a43028d6d16adcd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Library/Artifacts/c8/c838a9820c6113448519dca954329a9f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Library/Artifacts/d1/d185ad1a05ed0025e6b9f73c682b2b2c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Library/Artifacts/d5/d59de7d0e8b5174681da6e404a767c7a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Library/Artifacts/e1/e1f964038e68c5f96a37deeb0bcdcb73" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Library/Artifacts/e2/e28c1d4d2c13ef3fdc6164c69e170281" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Library/Artifacts/e3/e3196df345a6a42bb219b19a79099d76" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Library/Artifacts/eb/ebd5a33a9926d1aa56188e35f443e609" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Library/Artifacts/ef/ef8d0964c2d64f198fa6a7d979380dfa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Library/Artifacts/f0/f099b9cdadc308765c89796ebdfc61b7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Library/Artifacts/f1/f13c40edba0f0d5034b041356cbf440f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Library/Artifacts/f4/f436c309ed7a941262d223545cef8075" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Library/Artifacts/f5/f531619c71609742421938582cc6209c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Library/Artifacts/fb/fb898dd074ad8f40f63c8550cabbc999" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Library/CurrentLayout-default.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/../SummerPracticeCat/Library/CurrentLayout-default.dwlt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Library/CurrentMaximizeLayout.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/../SummerPracticeCat/Library/CurrentMaximizeLayout.dwlt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Library/EditorInstance.json" beforeDir="false" afterPath="$PROJECT_DIR$/../SummerPracticeCat/Library/EditorInstance.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Library/EditorUserBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../SummerPracticeCat/Library/EditorUserBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Library/InspectorExpandedItems.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../SummerPracticeCat/Library/InspectorExpandedItems.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Library/SceneVisibilityState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../SummerPracticeCat/Library/SceneVisibilityState.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../SummerPracticeCat/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Library/ScriptAssemblies/Unity.Rider.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../SummerPracticeCat/Library/ScriptAssemblies/Unity.Rider.Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../SummerPracticeCat/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Library/ScriptAssemblies/Unity.TextMeshPro.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../SummerPracticeCat/Library/ScriptAssemblies/Unity.TextMeshPro.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Library/ScriptAssemblies/Unity.Timeline.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../SummerPracticeCat/Library/ScriptAssemblies/Unity.Timeline.Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Library/ScriptAssemblies/Unity.Timeline.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../SummerPracticeCat/Library/ScriptAssemblies/Unity.Timeline.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Library/ScriptAssemblies/Unity.VSCode.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../SummerPracticeCat/Library/ScriptAssemblies/Unity.VSCode.Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Library/ScriptAssemblies/UnityEditor.TestRunner.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../SummerPracticeCat/Library/ScriptAssemblies/UnityEditor.TestRunner.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Library/ScriptAssemblies/UnityEditor.UI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../SummerPracticeCat/Library/ScriptAssemblies/UnityEditor.UI.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Library/ScriptAssemblies/UnityEngine.TestRunner.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../SummerPracticeCat/Library/ScriptAssemblies/UnityEngine.TestRunner.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Library/ScriptAssemblies/UnityEngine.UI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../SummerPracticeCat/Library/ScriptAssemblies/UnityEngine.UI.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Library/ShaderCache/EditorEncounteredVariants" beforeDir="false" afterPath="$PROJECT_DIR$/../SummerPracticeCat/Library/ShaderCache/EditorEncounteredVariants" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Library/SourceAssetDB" beforeDir="false" afterPath="$PROJECT_DIR$/../SummerPracticeCat/Library/SourceAssetDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Library/SourceAssetDB-lock" beforeDir="false" afterPath="$PROJECT_DIR$/../SummerPracticeCat/Library/SourceAssetDB-lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Library/StateCache/Hierarchy/0d4709-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/../SummerPracticeCat/Library/StateCache/Hierarchy/0d4709-mainStage.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Library/StateCache/SceneView/099d96-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/../SummerPracticeCat/Library/StateCache/SceneView/099d96-mainStage.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Library/TerrainTools/PaintTexture" beforeDir="false" afterPath="$PROJECT_DIR$/../SummerPracticeCat/Library/TerrainTools/PaintTexture" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Library/expandedItems" beforeDir="false" afterPath="$PROJECT_DIR$/../SummerPracticeCat/Library/expandedItems" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Library/shadercompiler-UnityShaderCompiler0.log" beforeDir="false" afterPath="$PROJECT_DIR$/../SummerPracticeCat/Library/shadercompiler-UnityShaderCompiler0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Library/shadercompiler-UnityShaderCompiler1.log" beforeDir="false" afterPath="$PROJECT_DIR$/../SummerPracticeCat/Library/shadercompiler-UnityShaderCompiler1.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Library/shadercompiler-UnityShaderCompiler2.log" beforeDir="false" afterPath="$PROJECT_DIR$/../SummerPracticeCat/Library/shadercompiler-UnityShaderCompiler2.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Library/shadercompiler-UnityShaderCompiler3.log" beforeDir="false" afterPath="$PROJECT_DIR$/../SummerPracticeCat/Library/shadercompiler-UnityShaderCompiler3.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../SummerPracticeCat/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../SummerPracticeCat/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/ProjectSettings/GraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../SummerPracticeCat/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../SummerPracticeCat/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummerPracticeCat/Temp/__Backupscenes/0.backup" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/GameRepo/Bullet.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/GameRepo/Gun.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Resources/HpPlayer.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scenes/GameRepo/Health.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/GameRepo/HPCount.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/LobbyRepo/LobbyManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/GameRepo/GameSceneManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Player/PlayerController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Resources/test.cs" />
+        <option value="$PROJECT_DIR$/Assets/Resources/Test.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/SpaceshipRepo/SpaceShipManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/GameRepo/HPCounter.cs" />
+        <option value="$PROJECT_DIR$/Assets/Resources/HpPlayer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/GameRepo/Bullet.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/GameRepo/Gun.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lASKOFDunz1I83AbdKAoqXXiji" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Standalone Player" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="$USER_HOME$/Desktop/ff.app/Contents/MacOS/WhoIsImposter" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop/ff.app/Contents/MacOS" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="06154061-e03a-4062-8b11-319311846d22" name="Default Changelist" comment="" />
+      <created>1607038346378</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607038346378</updated>
+      <workItem from="1607038405473" duration="983000" />
+      <workItem from="1607178061851" duration="5317000" />
+      <workItem from="1607257255253" duration="12376000" />
+      <workItem from="1607619545242" duration="32778000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="310" y="58" key="RiderGenerateDialog" timestamp="1607195855806">
+      <screen x="0" y="0" width="1280" height="745" />
+    </state>
+    <state x="310" y="58" key="RiderGenerateDialog/0.0.1280.745@0.0.1280.745" timestamp="1607195855806" />
+    <state x="346" y="101" key="RollbackChangesDialog" timestamp="1607039015628">
+      <screen x="0" y="0" width="1280" height="745" />
+    </state>
+    <state x="346" y="101" key="RollbackChangesDialog/0.0.1280.745@0.0.1280.745" timestamp="1607039015628" />
+    <state x="149" y="12" key="SettingsEditor" timestamp="1607038722873">
+      <screen x="0" y="0" width="1280" height="745" />
+    </state>
+    <state x="149" y="12" key="SettingsEditor/0.0.1280.745@0.0.1280.745" timestamp="1607038722873" />
+    <state x="441" y="293" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607038663288">
+      <screen x="0" y="0" width="1280" height="745" />
+    </state>
+    <state x="441" y="293" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.745@0.0.1280.745" timestamp="1607038663288" />
+    <state x="303" y="66" width="672" height="678" key="search.everywhere.popup" timestamp="1607264889830">
+      <screen x="0" y="0" width="1280" height="745" />
+    </state>
+    <state x="303" y="66" width="672" height="678" key="search.everywhere.popup/0.0.1280.745@0.0.1280.745" timestamp="1607264889830" />
+  </component>
+</project>
